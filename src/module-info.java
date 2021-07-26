@@ -1,0 +1,2 @@
+module StudentManagmentApp {
+}
